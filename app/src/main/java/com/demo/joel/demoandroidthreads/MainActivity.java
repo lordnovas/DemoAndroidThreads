@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 /**
  * Title: DemoThreads Practice project
- * Purpose: Practice Threads, Runnable, and Handlers 
+ * Purpose: Practice Threads, Runnable, and Handlers
  */
 
 public class MainActivity extends Activity
